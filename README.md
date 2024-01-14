@@ -76,6 +76,15 @@ If you plan to upload firmware & debug hardware, read notes in PlatformIO
 
 To build/execute, on PlafomIO tab expand desired env and click target:
 
-<img src="support/pio_explorer.jpg" width="60%">
+<img src="support/pio_explorer.jpg" width="60%" alt="screenshot showing how to execute code">
 
 Note, for emulator env `upload` also executes compiled binary.
+
+## Examples
+
+### 1. Music Screen Saver
+
+The `music_screen_saver.h` code is designed to create a graphical user interface (GUI) for a music screen saver using the LVGL library. The GUI incorporates various elements such as the current date, time, sleep timer, visualizer, temperature, and icons.
+
+<video src="support/MusicScreenSaver.mp4" controls width="320" height="320"></video>
+
