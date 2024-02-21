@@ -95,3 +95,6 @@ The `music_screen_saver.h` code is designed to create a graphical user interface
 
 <video src="support/MusicScreenSaver.mp4" controls width="320" height="320"></video>
 
+
+
+![Music Screen Saver](support/MusicScreenSaver.mp4?raw=true)
